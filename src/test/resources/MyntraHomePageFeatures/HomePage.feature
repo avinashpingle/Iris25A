@@ -11,3 +11,5 @@ Scenario: This is the demo scenario for myntra homepage
 	When यूजर लेविस की जीन्स सर्च करेगा
 	And user applied men filter
 	Then all resuts related to mens should appear
+
+Scenario: This is third scenario
