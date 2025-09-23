@@ -15,7 +15,7 @@ import com.skillio.pages.HomePage;
 import com.skillio.pages.PRPPage;
 import com.skillio.utils.WaitFor;
 
-public class MyTestCases extends Setup{
+public class MyTestCases {
 	
 	@Test(description = "TC001-Verfiy jeans filter on SRP")
 	public void verfiyJeansFilterOnSRP() throws InterruptedException {
